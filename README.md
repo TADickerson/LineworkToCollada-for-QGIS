@@ -21,7 +21,7 @@ Be sure to refer to the “Help” tab of the script’s user interface to read 
 
 If you are exporting multiple vector layers to Collada and want them to line up consistently in your 3D modeling software, you should pay careful attention to the coordinate systems of the GIS data.  You may want to project all the data into the same coordinate system before using this script.
 
-A demonstration video with one possible use case for this script is available here: [insert YouTube link].
+A demonstration video with one possible use case for this script is available here: https://youtu.be/hhC8h4-kpe0 (link to video on YouTube).
 
 ## Installation:
 
