@@ -25,7 +25,7 @@ A demonstration video with one possible use case for this script is available he
 
 ## Installation:
 
-There is no “installation” required; just copy the script file (*.py) and its associated help document (*.py.help) into your QGIS processing scripts folder.  On Windows 7, this folder can be found at C:\Users\[username]\.qgis2\processing\scripts.  This may vary by operating system.  If you aren’t sure where to put QGIS Processing script files on your system, you can determine the proper location by using the “Create new script tool” (under QGIS Processing Toolbox > Scripts > Tools) ,and then check to see where QGIS would prompt you to save that script by default –that’s where you should put this script as well.
+There is no “installation” required; just copy the script file (LineworkToCollada.py) and its associated help document (LineworkToCollada.py.help) into your QGIS processing scripts folder.  On Windows 7, this folder can be found at C:\Users\username\\.qgis2\processing\scripts.  This may vary by operating system.  If you aren’t sure where to put QGIS Processing script files on your system, you can determine the proper location by using the “Create new script tool” (under QGIS Processing Toolbox > Scripts > Tools) ,and then check to see where QGIS would prompt you to save that script by default –that’s where you should put this script as well.
 
 ## Testing Notes:
 
